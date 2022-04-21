@@ -9,6 +9,10 @@ Config:
 
 - create your telegram bot using BotFather
 - set variables in teleBot.go file
+
   var botToken = "###"
+  
   var chatIds = []string{"###", "##"}
+  
+  
 - upload Firestore json access file to gcp folder.
